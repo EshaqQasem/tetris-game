@@ -1,0 +1,8 @@
+C:\Users\DELL\Desktop\VCsharp\projects\squares_1_5\squares_1_5\bin\Debug\squares_1_5.exe.config
+C:\Users\DELL\Desktop\VCsharp\projects\squares_1_5\squares_1_5\obj\Debug\squares_1_5.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\VCsharp\projects\squares_1_5\squares_1_5\obj\Debug\squares_1_5.Properties.Resources.resources
+C:\Users\DELL\Desktop\VCsharp\projects\squares_1_5\squares_1_5\obj\Debug\squares_1_5.csproj.GenerateResource.Cache
+C:\Users\DELL\Desktop\VCsharp\projects\squares_1_5\squares_1_5\bin\Debug\squares_1_5.exe
+C:\Users\DELL\Desktop\VCsharp\projects\squares_1_5\squares_1_5\bin\Debug\squares_1_5.pdb
+C:\Users\DELL\Desktop\VCsharp\projects\squares_1_5\squares_1_5\obj\Debug\squares_1_5.exe
+C:\Users\DELL\Desktop\VCsharp\projects\squares_1_5\squares_1_5\obj\Debug\squares_1_5.pdb
